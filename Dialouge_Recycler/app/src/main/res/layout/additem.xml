@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/etname"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:ems="10"
+        android:hint="Name"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/etid"
+        android:layout_width="225dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etname"
+        android:layout_marginLeft="20dp"
+        android:ems="10"
+        android:hint="ID"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:id="@+id/imageUrl"
+        android:layout_width="226dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/etid"
+        android:layout_marginLeft="20dp"
+        android:ems="10"
+        android:hint="Image url"
+        android:inputType="textPersonName" />
+
+    <Button
+        android:id="@+id/addbutton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/imageUrl"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="20dp"
+        android:text="Add" />
+
+</RelativeLayout>
