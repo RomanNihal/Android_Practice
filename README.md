@@ -21,7 +21,7 @@ Here’s what you can find in this repository:
 
 ## Technologies and Tools
 
-- **Languages**: Java, Kotlin
+- **Languages**: Java,
 - **Libraries**: Android SDK (standard), Glide (for image loading), Retrofit (for API calls), etc.
 - **Tools**: Android Studio, Git
 
@@ -34,10 +34,4 @@ This repository is my space to practice and experiment with Android development.
 - Build more complex projects that integrate multiple Android components.
 - Improve my skills in UI design and app performance optimization.
 - Learn about **Jetpack Compose** and implement modern UI in future projects.
-
-## Connect with Me
-
-If you have any suggestions, questions, or just want to share your thoughts, feel free to reach out. I’m always happy to connect with fellow developers!
-
-Thank you for visiting my repository. Let’s continue learning and building! 🚀
 
